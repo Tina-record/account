@@ -1,4 +1,5 @@
 # account
+<<<<<<< HEAD
 
 >  记录账目的支出明细
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+记账本。使用Vue 框架编写记账功能网站。
+>>>>>>> 9ff5337e3109c083c6e779b5d9fb5772b3bfabcc
